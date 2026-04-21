@@ -1,0 +1,14 @@
+{
+  "report_metadata": {
+    "generated_At": "2026-04-20 23:09:56",
+    "log_file_parsed": "/var/log/dpkg.log",
+    "total_lines_read": 433
+  },
+  "summary": {
+    "total_errors": 0,
+    "total_warnings": 0,
+    "error_rate_percent": 0.0
+  },
+  "recent_errors": [],
+  "recent_warnings": []
+}
